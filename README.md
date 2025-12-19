@@ -38,4 +38,5 @@ Statistics Canada
 - Python (Pandas, NumPy, SQLAlchemy)
 - SQL (MySQL)
 - Visualization: Matplotlib, Seaborn, Plotly
+![img_alt](https://github.com/chevliriya/Alberta-Workforce-Economy-Analysis/blob/main/images/alberta%20work%20force%20ecomony%20entity%20diagram.png)
   
